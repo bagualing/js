@@ -1,1 +1,3 @@
-alert('message from js');
+'use strict';
+abc = 'Hello world';
+alert(abc)
